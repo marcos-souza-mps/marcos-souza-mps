@@ -1,16 +1,21 @@
-### Hi there 👋
+"All our dreams can come true if we have the courage to pursue them" - Walt Disney
 
-<!--
-**marcos-souza-mps/marcos-souza-mps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello everyone,
 
-- 🔭 I’m currently working on ...
+I've been working as a back-end developer since 2015, I'm a big tech enthusiast and a nerd with pride.
+
+🔭 I worked with:
+- C# (.Net / .Net Core / .NET 5 / ASP.NET)
+- VB (VbScript / Vb.NET)
+- AngularJS
+- Angular (7/8)
+- Classic ASP 
+- PL/SQL
+- Javascript
+- CSS 
+- jQuery
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Blazor
